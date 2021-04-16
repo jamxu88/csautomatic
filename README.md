@@ -1,2 +1,3 @@
 # csautomatic
-Automatically solving CSAwesome 
+Automatically solving CSAwesome<br>
+Includes request and headful modes
