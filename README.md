@@ -1,0 +1,2 @@
+# csautomatic
+Automatically solving CSAwesome 
